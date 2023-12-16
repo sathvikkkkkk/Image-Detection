@@ -20,7 +20,7 @@ https://github.com/monishmohanty/Image-Detection
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n waste python=3.7 -y
+conda create -n image python=3.7 -y
 ```
 
 ```bash
