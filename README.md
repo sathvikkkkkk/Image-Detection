@@ -113,6 +113,6 @@ open up you local host and port
 
     AWS_REGION = ap-south-1
 
-    AWS_ECR_LOGIN_URI = demo>>  737984326619.dkr.ecr.eu-north-1.amazonaws.com/image
+    AWS_ECR_LOGIN_URL = demo>>  737984326619.dkr.ecr.eu-north-1.amazonaws.com/image
 
     ECR_REPOSITORY_NAME = image
