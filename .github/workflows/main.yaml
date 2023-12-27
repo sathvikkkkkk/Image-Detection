@@ -6,6 +6,9 @@
 #       - main
 #     paths-ignore:
 #       - 'README.md'
+#       - main
+#     paths-ignore:
+#       - 'README.md'
 
 name: workflow
 
