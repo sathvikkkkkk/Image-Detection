@@ -1,3 +1,12 @@
+# name: workflow
+
+# on:
+#   push:
+#     branches:
+#       - main
+#     paths-ignore:
+#       - 'README.md'
+
 name: workflow
 
 on:
@@ -6,6 +15,7 @@ on:
       - main
     paths-ignore:
       - 'README.md'
+
 
 permissions:
   id-token: write
